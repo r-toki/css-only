@@ -63,15 +63,14 @@ body {
   stroke-dasharray: 440;
   stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
   opacity: 0;
-  animation: fadeIn 1s linear forwards;
-  animation-delay: 2.5s;
+  animation: fadeIn 5s linear forwards infinite;
 }
 
 @keyframes fadeIn {
-  0% {
+  50% {
     opacity: 0;
   }
-  100% {
+  70%, 100% {
     opacity: 1;
   }
 }
@@ -81,14 +80,14 @@ body {
   inset: 5px;
   z-index: 10;
   transform: rotate(calc(3.6deg * var(--num)));
-  animation: animateDot 2s linear forwards;
+  animation: animateDot 5s linear forwards infinite;
 }
 
 @keyframes animateDot {
   0% {
     transform: rotate(0deg);
   }
-  100% {
+  40% {
     transform: rotate(calc(3.6deg * var(--num)));
   }
 }
@@ -114,8 +113,7 @@ body {
   align-items: center;
   flex-direction: column;
   opacity: 0;
-  animation: fadeIn 1s linear forwards;
-  animation-delay: 2.5s;
+  animation: fadeIn 5s linear forwards infinite;
 }
 
 .number h2 {
