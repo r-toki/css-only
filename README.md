@@ -1,7 +1,7 @@
 ### portfolio
 
-- infinity
-  - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/infinity/index.html
+- circular-progress
+  - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/circular-progress/index.html
 - glowing-button
   - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/glowing-button/index.html
 
