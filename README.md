@@ -10,6 +10,8 @@
   - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/delete-button/index.html
 - profile-card
   - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/profile-card/index.html
+- popup-box
+  - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/popup-box/index.html
 
 ### note
 
