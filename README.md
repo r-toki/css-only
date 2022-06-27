@@ -12,6 +12,8 @@
   - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/profile-card/index.html
 - popup-box
   - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/popup-box/index.html
+- heart-button
+  - https://htmlpreview.github.io/?https://github.com/rtokkie/css-only/blob/main/heart-button/index.html
 
 ### note
 
